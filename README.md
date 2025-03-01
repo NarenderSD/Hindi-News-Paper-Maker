@@ -1,4 +1,5 @@
-﻿# Hindi-News-Paper-Maker
+﻿# Hindi-News-Paper-Maker 
+ Live:- https://hindi-news-paper-maker.vercel.app/
  # Hindi-News-Paper-Maker (Khabar Nirmaan)
 
 Welcome to **Hindi-News-Paper-Maker**, a premium and user-friendly tool to create authentic Hindi newspaper-style content. Known as **Khabar Nirmaan**, this project lets you design and generate professional Hindi news articles with customizable templates, fonts, and layouts, mimicking real Hindi newspapers. It’s perfect for journalists, content creators, educators, and hobbyists.
